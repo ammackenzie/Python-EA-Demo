@@ -11,4 +11,4 @@ Algorithm allows the user to experiment with the following crossover operators:
 
 The algorithm also demonstrates tournament selection, a standard mutation operator, as well as evaluation and replacement operators.
 
-Code can also be easily repurposed for other integer representation based EAs.
+Code can also be easily repurposed for other integer representation based EAs such as Travelling Salesperson Problem attempts.
